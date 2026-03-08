@@ -2,6 +2,7 @@
 
 <div align="center">
 
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,24&height=140&text=Cavendish%20is%20Open&fontSize=42&fontColor=bf00ff&fontAlignY=65&animation=twinkling" width="100%" />
 
 ```yaml
  ██████╗ █████╗ ██╗   ██╗███████╗███╗   ██╗██████╗ ██╗███████╗██╗  ██╗
@@ -13,7 +14,10 @@
                                                                          
                     S Y S T E M   L A B S
 ```
+
 <img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=700&size=22&duration=3000&pause=1000&color=BF00FF&center=true&vCenter=true&width=600&lines=Welcome+to+Cavendish+System+Labs.;Build+anything.+Ship+everything.;The+lab+is+always+open." alt="Typing SVG" />
+
+<br/>
 
 [![Status](https://img.shields.io/badge/status-active-bf00ff?style=flat-square&logoColor=white)](https://github.com/cavendish-system-labs)
 [![Open Source](https://img.shields.io/badge/open--source-friendly-ff00ff?style=flat-square)](https://github.com/cavendish-system-labs)
@@ -105,6 +109,10 @@ Show up and build something.
 
 <br/>
 
-[![Made with ❤️](https://img.shields.io/badge/made%20with-curiosity-ff00ff?style=flat-square)](https://github.com/cavendish-system-labs)
+[![Made with curiosity](https://img.shields.io/badge/made%20with-curiosity-ff00ff?style=flat-square)](https://github.com/cavendish-system-labs)
+
+<br/>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,24&height=140&text=Cavendish%20is%20Open&fontSize=42&fontColor=ff00ff&fontAlignY=45&section=footer&animation=blinking" width="100%" />
 
 </div>
